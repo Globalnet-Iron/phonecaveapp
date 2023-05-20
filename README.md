@@ -1,4 +1,4 @@
 # The Phone Cave (WD)
 
-App creada para gestionar venta de smartphones.
+App creada como ejercicio PTNOV 2022.
 
